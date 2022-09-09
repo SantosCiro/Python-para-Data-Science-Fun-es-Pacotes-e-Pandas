@@ -1,1 +1,1 @@
-# Python-para-Data-Science-Funces-Pacotes-e-Pandas
+# Python-para-Data-Science-Funcoes-Pacotes-e-Pandas
